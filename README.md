@@ -1,2 +1,3 @@
-# Sinatra-Skeleton
-Including Bcrypt, Faker and Session Helper Methods
+# Relay
+- App to help track coaches create and run workouts, including timing and reporting.
+
